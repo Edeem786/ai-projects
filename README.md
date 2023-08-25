@@ -1,9 +1,10 @@
 # ai-projects
 
 
-AI Projects made for CS50AI 
+AI Projects made for CS50AI assignments
 
-- Tiktok AI with minmax algorithm
+- Finding Shortest link between two actors using BFS algorithm
+- Tic Tac Toe AI with minmax algorithm
 - Minesweeper AI that plays optimally
 - Crossword Generator
 - Predicting if user will buy product using Machine Learning (scikit-learn)
